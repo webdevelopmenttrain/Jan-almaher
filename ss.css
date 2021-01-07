@@ -12,8 +12,6 @@ header{
     text-align: center;
     font-variant:small-caps;
 }
-nav {
-    color:#293372;}
 summary {
     font-size: 110%;
     font-style: normal;
@@ -23,6 +21,7 @@ details {
 }
 nav{
     font-size:200%;
+    font-family: Arial;
 }
 footer {
     background-color: #9ba8aa;
