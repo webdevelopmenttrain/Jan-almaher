@@ -12,6 +12,8 @@ header{
     text-align: center;
     font-variant:small-caps;
 }
+nav {
+    color:#293372;}
 summary {
     font-size: 110%;
     font-style: normal;
